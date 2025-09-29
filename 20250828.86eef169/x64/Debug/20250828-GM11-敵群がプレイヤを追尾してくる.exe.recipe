@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\HAL\20250912-01-GN31 DXとの結合　位置送信完成\20250912-01-GN31 DXとの結合　位置送信完成\x64\Debug\20250828-GM11-敵群がプレイヤを追尾してくる.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\HAL\20250912-01-GN31 DXとの結合　位置送信完成\20250912-01-GN31 DXとの結合　位置送信完成\x64\Debug\vertexLightingOneSkinVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

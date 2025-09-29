@@ -1,0 +1,8 @@
+myid = 1
+myport = 50001
+
+yourip1 = "127.0.0.1"  # 對 Player0
+yourport1 = 50000
+
+yourip2 = "127.0.0.1"  # 對 Player2
+yourport2 = 50002
